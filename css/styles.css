@@ -3,16 +3,17 @@
   font-family: fantasy;
 }
 
-.flashy {
+p.flashy {
   color: red;
   background-color: pink;
   font-style: italic;
 }
 
-.flashy2 {
+div.flashy {
   background-color:pink;
 }
 
-.flashy3 {
-  background-color:pink;
+img.marginleft {
+  display:block;
+  margin-left: auto;
 }
