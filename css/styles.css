@@ -2,3 +2,17 @@
   text-align: center;
   font-family: fantasy;
 }
+
+.flashy {
+  color: red;
+  background-color: pink;
+  font-style: italic;
+}
+
+.flashy2 {
+  background-color:pink;
+}
+
+.flashy3 {
+  background-color:pink;
+}
