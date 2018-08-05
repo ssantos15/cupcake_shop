@@ -3,17 +3,36 @@
   font-family: fantasy;
 }
 
-p.flashy {
-  color: red;
+div.leftWrap {
   background-color: pink;
+  color: red;
+  font-style: italic;
+}
+
+div.leftWrap2 {
+  background-color: pink;
+  color: red;
+  font-style: italic;
+}
+
+div.leftWrap3 {
+  background-color: pink;
+  color: red;
+  font-style: italic;
+}
+
+div.rightWrap {
+  background-color: pink;
+  color: red;
+  font-style: italic;
+}
+
+div.rightWrap2 {
+  background-color: pink;
+  color: red;
   font-style: italic;
 }
 
 div.flashy {
-  background-color:pink;
-}
-
-img.marginleft {
-  display:block;
-  margin-left: auto;
+  background-color: pink;
 }
