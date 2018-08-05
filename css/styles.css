@@ -10,13 +10,20 @@ p.flashy {
   width:40%;
 }
 
+p.flashy2 {
+  color: red;
+  background-color: pink;
+  font-style: italic;
+  text-align: right;
+  width:-1000%
+}
+
 div.flashy {
   background-color:pink;
 }
 
 img.marginleft {
-  display:block;
-  margin-left: auto;
+  float: right;
 }
 
 img.leftWrap {
